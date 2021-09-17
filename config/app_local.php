@@ -42,8 +42,8 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'non_standard_port_number',
-            'username' => 'computar_delivery',
-            'password' => 'm0px45ibb2hp',
+            'username' => '',
+            'password' => '',
             'database' => 'computar_delivery',
             /**
              * If not using the default 'public' schema with the PostgreSQL driver
